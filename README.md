@@ -8,7 +8,7 @@ Kaggle requires authenticated file access, so the workbook was downloaded from t
 
 ## Dashboard
 
-- View dashboard: https://raw.githack.com/DeepakPamisetty/FUTURE_DS_01/main/outputs/online_retail_dashboard.html
+- View dashboard: https://htmlpreview.github.io/?https://github.com/DeepakPamisetty/FUTURE_DS_01/blob/main/outputs/online_retail_dashboard.html
 - Dashboard file in repository: https://github.com/DeepakPamisetty/FUTURE_DS_01/blob/main/outputs/online_retail_dashboard.html
 - GitHub Pages URL, after Pages is enabled: https://deepakpamisetty.github.io/FUTURE_DS_01/
 
