@@ -1,0 +1,16 @@
+{
+  "raw_rows":541909,
+  "clean_rows":530104,
+  "total_revenue":10666684.5439999998,
+  "orders":19960,
+  "units":5588376,
+  "customers":4338,
+  "date_start":"2010-12-01 08:26:00",
+  "date_end":"2011-12-09 12:50:00",
+  "top_product":"REGENCY CAKESTAND 3 TIER",
+  "top_product_revenue":174484.74,
+  "top_selling_product":"PAPER CRAFT , LITTLE BIRDIE",
+  "top_selling_product_units":80995,
+  "top_category":"Home Decor",
+  "top_region":"United Kingdom"
+}
