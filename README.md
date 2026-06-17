@@ -8,10 +8,11 @@ Kaggle requires authenticated file access, so the workbook was downloaded from t
 
 ## Dashboard
 
-- Live dashboard: https://deepakpamisetty.github.io/FUTURE_DS_01/outputs/online_retail_dashboard.html
+- View dashboard: https://raw.githack.com/DeepakPamisetty/FUTURE_DS_01/main/outputs/online_retail_dashboard.html
 - Dashboard file in repository: https://github.com/DeepakPamisetty/FUTURE_DS_01/blob/main/outputs/online_retail_dashboard.html
+- GitHub Pages URL, after Pages is enabled: https://deepakpamisetty.github.io/FUTURE_DS_01/
 
-If the live dashboard link does not open yet, enable GitHub Pages for this repository from **Settings > Pages**, using the `main` branch and `/root` folder.
+The GitHub Pages URL returns 404 until Pages is enabled for this repository from **Settings > Pages**, using the `main` branch and `/root` folder.
 
 ## Outputs
 
