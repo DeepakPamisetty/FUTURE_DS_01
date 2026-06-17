@@ -6,6 +6,13 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 Kaggle requires authenticated file access, so the workbook was downloaded from the public UCI Machine Learning Repository mirror of the same Online Retail transaction dataset.
 
+## Dashboard
+
+- Live dashboard: https://deepakpamisetty.github.io/FUTURE_DS_01/outputs/online_retail_dashboard.html
+- Dashboard file in repository: https://github.com/DeepakPamisetty/FUTURE_DS_01/blob/main/outputs/online_retail_dashboard.html
+
+If the live dashboard link does not open yet, enable GitHub Pages for this repository from **Settings > Pages**, using the `main` branch and `/root` folder.
+
 ## Outputs
 
 - `outputs/online_retail_dashboard.html` - client-ready dashboard with KPI cards, charts, insights, and recommendations.
