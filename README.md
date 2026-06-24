@@ -16,7 +16,8 @@ The GitHub Pages URL returns 404 until Pages is enabled for this repository from
 
 ## Outputs
 
-- `outputs/online_retail_dashboard.html` - client-ready dashboard with KPI cards, charts, insights, and recommendations.
+- `outputs/online_retail_dashboard.html` - client-ready dashboard with KPI cards, SVG charts, slicer filters, insights, and recommendations.
+- `outputs/charts/*.svg` - lightweight chart assets used by the dashboard generator.
 - `data/processed/online_retail_cleaned.csv` - cleaned transaction-level sales data.
 - `data/processed/monthly_revenue.csv` - revenue, orders, units, and average order value by month.
 - `data/processed/top_products_by_units.csv` - top-selling merchandise products by units sold.
@@ -35,5 +36,5 @@ The source data does not include a formal product category field. Categories in 
 ## Rebuild
 
 ```bash
-MPLCONFIGDIR=/private/tmp python3 online_retail_analysis/scripts/build_online_retail_report.py
+python3 scripts/build_online_retail_report.py
 ```

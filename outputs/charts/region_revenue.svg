@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" role="img">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g font-family="Arial, Segoe UI, sans-serif">
+
+    <text x="248" y="52" text-anchor="end" font-size="13" fill="#26343b">United Kingdom</text>
+    <rect x="260" y="34" width="514.0" height="24" rx="5" fill="#219b8f"/>
+    <text x="782.0" y="51" font-size="13" fill="#34444b">9.0M</text>
+
+    <text x="248" y="91" text-anchor="end" font-size="13" fill="#26343b">Western Europe</text>
+    <rect x="260" y="73" width="64.8" height="24" rx="5" fill="#219b8f"/>
+    <text x="332.8" y="90" font-size="13" fill="#34444b">1.1M</text>
+
+    <text x="248" y="130" text-anchor="end" font-size="13" fill="#26343b">Oceania</text>
+    <rect x="260" y="112" width="7.9" height="24" rx="5" fill="#219b8f"/>
+    <text x="275.9" y="129" font-size="13" fill="#34444b">139K</text>
+
+    <text x="248" y="169" text-anchor="end" font-size="13" fill="#26343b">Southern Europe</text>
+    <rect x="260" y="151" width="7.6" height="24" rx="5" fill="#219b8f"/>
+    <text x="275.6" y="168" font-size="13" fill="#34444b">134K</text>
+
+    <text x="248" y="208" text-anchor="end" font-size="13" fill="#26343b">Northern Europe</text>
+    <rect x="260" y="190" width="6.9" height="24" rx="5" fill="#219b8f"/>
+    <text x="274.9" y="207" font-size="13" fill="#34444b">120K</text>
+
+    <text x="248" y="247" text-anchor="end" font-size="13" fill="#26343b">Asia</text>
+    <rect x="260" y="229" width="4.2" height="24" rx="5" fill="#219b8f"/>
+    <text x="272.2" y="246" font-size="13" fill="#34444b">74K</text>
+
+    <text x="248" y="286" text-anchor="end" font-size="13" fill="#26343b">Middle East</text>
+    <rect x="260" y="268" width="4.0" height="24" rx="5" fill="#219b8f"/>
+    <text x="272.0" y="285" font-size="13" fill="#34444b">11K</text>
+
+    <text x="248" y="325" text-anchor="end" font-size="13" fill="#26343b">Central/Eastern Europe</text>
+    <rect x="260" y="307" width="4.0" height="24" rx="5" fill="#219b8f"/>
+    <text x="272.0" y="324" font-size="13" fill="#34444b">10K</text>
+
+    <text x="248" y="364" text-anchor="end" font-size="13" fill="#26343b">North America</text>
+    <rect x="260" y="346" width="4.0" height="24" rx="5" fill="#219b8f"/>
+    <text x="272.0" y="363" font-size="13" fill="#34444b">7K</text>
+
+    <text x="248" y="403" text-anchor="end" font-size="13" fill="#26343b">Unspecified</text>
+    <rect x="260" y="385" width="4.0" height="24" rx="5" fill="#219b8f"/>
+    <text x="272.0" y="402" font-size="13" fill="#34444b">5K</text>
+
+    <line x1="260" y1="428" x2="774" y2="428" stroke="#d9e4e8"/>
+    <text x="260" y="456" font-size="12" fill="#5d6d73">Revenue</text>
+  </g>
+</svg>
